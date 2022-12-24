@@ -1,0 +1,142 @@
+@media (max-width: 1920px) {}
+
+    
+
+@media (max-width: 1440px) {
+
+}
+
+@media (max-width: 1200px) {
+
+}
+
+@media (max-width: 1024px) {
+
+}
+
+@media (max-width: 992px) {
+    .footer h1 {
+        font-size: 40px;
+    }
+
+    .SMS {
+        height: 230px;
+        width: 410px;
+        border-radius: 18% 0 15% 0;
+    }
+
+    .SMS img {
+        width: 80px;
+        height: 80px;
+    }
+
+    .SMS p {
+        font-size: 13px;
+        line-height: 20px;
+        width: 400px;
+
+    }
+
+    .SMS h3 {
+        font-size: 20px;
+    }
+
+    .SMS-1 {
+        border-radius: 0 15% 0 15%;
+        height: 250px;
+        width: 410px;
+    }
+
+    .SMS-1 p {
+
+        font-size: 13px;
+        width: 400px;
+        line-height: 20px;
+    }
+
+
+    .SMS-2 {
+        border-radius: 18% 0 15% 0;
+        height: 250px;
+        width: 410px;
+    }
+
+    .SMS-2 p {
+        font-size: 13px;
+        width: 400px;
+        line-height: 20px;
+    }
+
+    .SMS-2 h3 {
+        font-size: 20px;
+    }
+
+    .courses button {
+        font-size: 15px;
+    }
+    .hero-1{
+        padding-top: 0;
+    }
+    .hero-1 h1{
+        font-size:50px ;
+
+    }
+
+    .cell-1{
+        bottom: -938px;
+        width: 207px;
+        height: 190px;
+    }
+    .cell-1 h3{
+        font-size: 18px;
+    }
+
+    .cell-2{
+        bottom: 1118px;
+        left: 369px;
+        width: 207px;
+        height: 190px;
+    }
+    .cell-2 h3{
+        font-size: 18px;
+    }
+
+    .cell-3{
+        bottom: -938px;
+        width: 207px;
+        height: 190px;
+    }
+    .cell-3 h3{
+        font-size: 18px;
+    }
+
+    .cell-4{
+        bottom: -938px;
+        width: 207px;
+        height: 190px;
+        left: 359px
+    }
+    .cell-4 h3{
+        font-size: 18px;
+    }
+
+
+}
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 576px) {
+}
+@media (max-width: 451px) {
+
+}
+@media (max-width: 400px) {
+
+}
+@media (max-width: 376px) {
+
+}
+@media (max-width: 320px) {
+
+}
